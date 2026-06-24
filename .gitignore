@@ -134,15 +134,8 @@ dmypy.json
 results/
 *.log
 quantum_real.log
-*.pkl
-*.npy
-!data/*.npy
-!data/*.pkl
 
 # Large files (keep data directory, but ignore run outputs)
-quantum_kernel_matrix_real.npy
-quantum_predictions_real.npy
-quantum_scores_real.npy
 
 # OS files
 .DS_Store
